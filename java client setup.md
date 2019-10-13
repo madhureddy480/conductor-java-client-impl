@@ -1,6 +1,6 @@
 # java Client Setup - Learning through an example.
 
-Expectation is Conductor server and UI apps are up and running. If not true, follow 
+Expectation is Conductor server and UI apps are up and running. If not true, follow 'Server Setup README.md'
 
 
 Step 1: Task Definitions
