@@ -1,6 +1,6 @@
 # conductor-java-client-impl
 
-download 'conductor-master' 
+download 'conductor-master' as zip from https://github.com/madhureddy480/conductor-server-ui-cloned.git and unzip it.
 
 ```
 cd downloads
